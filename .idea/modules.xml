@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang/Mang.iml" filepath="$PROJECT_DIR$/Mang/Mang.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro-java/intro-java.iml" filepath="$PROJECT_DIR$/intro-java/intro-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opp/opp.iml" filepath="$PROJECT_DIR$/opp/opp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuan2/tuan2.iml" filepath="$PROJECT_DIR$/tuan2/tuan2.iml" />
     </modules>
   </component>
 </project>
