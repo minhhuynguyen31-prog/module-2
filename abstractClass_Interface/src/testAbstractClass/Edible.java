@@ -1,4 +1,5 @@
 package testAbstractClass;
 
-public class Edible {
+public interface Edible {
+    String howtoeat();
 }

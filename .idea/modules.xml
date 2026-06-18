@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BiraryFile/BiraryFile.iml" filepath="$PROJECT_DIR$/BiraryFile/BiraryFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Debug/Debug.iml" filepath="$PROJECT_DIR$/Debug/Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mang/Mang.iml" filepath="$PROJECT_DIR$/Mang/Mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automated-testing/NextDayCalculator/NextDayCalculator.iml" filepath="$PROJECT_DIR$/automated-testing/NextDayCalculator/NextDayCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringRegex/StringRegex.iml" filepath="$PROJECT_DIR$/StringRegex/StringRegex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automated-testing/absolute-number-calculator/absolute-number-calculator.iml" filepath="$PROJECT_DIR$/automated-testing/absolute-number-calculator/absolute-number-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractClass_Interface/abstractClass_Interface.iml" filepath="$PROJECT_DIR$/abstractClass_Interface/abstractClass_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cleanCode/apj-caculator/apj-caculator.iml" filepath="$PROJECT_DIR$/cleanCode/apj-caculator/apj-caculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cleanCode/apj-cylinder/apj-cylinder.iml" filepath="$PROJECT_DIR$/cleanCode/apj-cylinder/apj-cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cleanCode/apj-fizzbuzz/apj-fizzbuzz.iml" filepath="$PROJECT_DIR$/cleanCode/apj-fizzbuzz/apj-fizzbuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automated-testing/automated-testing.iml" filepath="$PROJECT_DIR$/automated-testing/automated-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cleanCode/cleanCode.iml" filepath="$PROJECT_DIR$/cleanCode/cleanCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionFramework/collectionFramework.iml" filepath="$PROJECT_DIR$/collectionFramework/collectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filePJ/filePJ.iml" filepath="$PROJECT_DIR$/filePJ/filePJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro-java/intro-java.iml" filepath="$PROJECT_DIR$/intro-java/intro-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuan2/modifier.iml" filepath="$PROJECT_DIR$/tuan2/modifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
       <module fileurl="file://$PROJECT_DIR$/opp/opp.iml" filepath="$PROJECT_DIR$/opp/opp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tuan2/tuan2.iml" filepath="$PROJECT_DIR$/tuan2/tuan2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack-queue-tree/stack-queue-tree.iml" filepath="$PROJECT_DIR$/stack-queue-tree/stack-queue-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thua_ke/thua_ke.iml" filepath="$PROJECT_DIR$/thua_ke/thua_ke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuatToanSapSep/thuatToanSapSep.iml" filepath="$PROJECT_DIR$/thuatToanSapSep/thuatToanSapSep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuatToanTimKiem/thuatToanTimKiem.iml" filepath="$PROJECT_DIR$/thuatToanTimKiem/thuatToanTimKiem.iml" />
     </modules>
   </component>
 </project>
